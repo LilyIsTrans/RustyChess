@@ -15,5 +15,5 @@ I will consider the project to be minimally complete when (in no particular orde
 
 ## Potential extended goals
 In no particular order:
-* An integrated UCI interface
-* (To be continued)
+* My own UCI compatible interface
+* Multiple configurable difficulty levels
